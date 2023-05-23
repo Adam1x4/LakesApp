@@ -1,0 +1,5 @@
+﻿1/"Rožmberk"/647/5,86/Jindřichův Hradec
+2/"Horusický rybník"/438/3,97/Tábor
+3/"Bezdrev"/394/5,63/České Budějovice
+4/"Dvořiště"/388/6,65/České Budějovice
+5/"Velký Tisý"/317/4,28/Jindřichův Hradec

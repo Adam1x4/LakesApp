@@ -1,0 +1,16 @@
+C:\Users\marti\source\repos\Lakes\bin\Debug\net6.0\Lakes.exe
+C:\Users\marti\source\repos\Lakes\bin\Debug\net6.0\lakes.txt
+C:\Users\marti\source\repos\Lakes\bin\Debug\net6.0\Lakes.deps.json
+C:\Users\marti\source\repos\Lakes\bin\Debug\net6.0\Lakes.runtimeconfig.json
+C:\Users\marti\source\repos\Lakes\bin\Debug\net6.0\Lakes.dll
+C:\Users\marti\source\repos\Lakes\bin\Debug\net6.0\Lakes.pdb
+C:\Users\marti\source\repos\Lakes\obj\Debug\net6.0\Lakes.csproj.AssemblyReference.cache
+C:\Users\marti\source\repos\Lakes\obj\Debug\net6.0\Lakes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marti\source\repos\Lakes\obj\Debug\net6.0\Lakes.AssemblyInfoInputs.cache
+C:\Users\marti\source\repos\Lakes\obj\Debug\net6.0\Lakes.AssemblyInfo.cs
+C:\Users\marti\source\repos\Lakes\obj\Debug\net6.0\Lakes.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\Lakes\obj\Debug\net6.0\Lakes.dll
+C:\Users\marti\source\repos\Lakes\obj\Debug\net6.0\refint\Lakes.dll
+C:\Users\marti\source\repos\Lakes\obj\Debug\net6.0\Lakes.pdb
+C:\Users\marti\source\repos\Lakes\obj\Debug\net6.0\Lakes.genruntimeconfig.cache
+C:\Users\marti\source\repos\Lakes\obj\Debug\net6.0\ref\Lakes.dll
